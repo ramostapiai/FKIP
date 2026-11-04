@@ -8,7 +8,7 @@ FKIP integra resultados estadísticos de metagenómica a nivel de característic
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/FKIP.git
+git clone https://github.com/ramostapiai/FKIP.git
 cd FKIP
 conda env create -f environment.yml
 conda activate fkip_env
