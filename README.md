@@ -22,3 +22,4 @@ python scripts/fkip_pipeline.py --input-dir inputs --resource-dir resources --ou
 
 ## Licencia
 MIT License. Ver [LICENSE](LICENSE) para más detalles.
+# FKIP
