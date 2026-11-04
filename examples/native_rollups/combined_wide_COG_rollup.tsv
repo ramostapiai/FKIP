@@ -1,0 +1,11 @@
+L1	L2	L3	L4	ID	Function	EC	Sample_01	Sample_02	Sample_03	Sample_04
+Metabolism	Amino acid transport and metabolism	Dipeptide/oligopeptide/nickel ABC transporter	5B58	COG1124	ABC-type dipeptide/oligopeptide/nickel transport system, ATPase component		12.5	14.2	8.1	9.0
+Information storage and processing	Translation, ribosomal structure and biogenesis	tRNA modification	3B8A	COG1571	rRNA/tRNA methylase		4.1	3.8	11.4	12.9
+Metabolism	Inorganic ion transport and metabolism	Phosphate/phosphonate transport	4K1P	COG3221	ABC-type phosphate/phosphonate transport system, periplasmic component		15.0	16.3	7.4	6.8
+Cellular processes and signaling	Defense mechanisms	CRISPR-Cas system	6C2D	COG5939	CRISPR-associated protein		2.2	1.9	9.5	10.1
+Cellular processes and signaling	Defense mechanisms	Restriction-modification	1A2B	COG5444	Predicted restriction endonuclease		1.5	2.0	8.8	9.2
+Metabolism	Inorganic ion transport and metabolism	Phosphate/phosphonate transport	2F4C	COG3639	ABC-type phosphate/phosphonate transport system, ATPase component		13.1	14.8	6.5	7.1
+Information storage and processing	Translation, ribosomal structure and biogenesis	tRNA modification	4M1Z	COG2520	tRNA G10 N-methylase Trm11	2.1.1.214	3.5	4.0	10.2	11.0
+Metabolism	Cofactor and vitamin metabolism	Coenzyme metabolism	5X9Y	COG1907	Archaeal KaiC-like ATPase		2.8	3.1	8.4	9.6
+Metabolism	Energy production and conversion	Methanogenesis	3Z1W	COG1962	Tetrahydromethanopterin S-methyltransferase, subunit H	2.1.1.86	1.8	2.2	7.9	8.5
+Cellular processes and signaling	Cell cycle control, cell division, chromosome partitioning	Cell division	2R6E	COG2919	Cell division protein ZapB, interacts with FtsZ		6.4	7.2	4.1	3.9

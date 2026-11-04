@@ -28,13 +28,13 @@ venv/
 ENV/
 
 # Pipeline data, cache, and outputs
-cache/
-outputs/
-resources/
-native_rollups/
-inputs/*
-!inputs/.gitkeep
-!scripts/.gitkeep
+/cache/
+/outputs/
+/resources/
+/native_rollups/
+/inputs/*
+!/inputs/.gitkeep
+!/scripts/.gitkeep
 
 # Jupyter / IDE
 .ipynb_checkpoints/

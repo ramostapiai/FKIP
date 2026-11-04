@@ -1,0 +1,11 @@
+L1	L2	L3	L4	ID	Function	EC	Sample_01	Sample_02	Sample_03	Sample_04
+Environmental Information Processing	Membrane transport	Phosphotransferase system (PTS)	Lactose-specific [mD:m00204]	K02786	lacE; PTS system, lactose-specific IIB component	2.7.1.207	14.1	15.6	6.0	5.5
+Environmental Information Processing	Membrane transport	Phosphotransferase system (PTS)	Lactose-specific [mD:m00204]	K02788	lacF; PTS system, lactose-specific IIA component	2.7.1.207	12.3	13.9	5.4	5.0
+Environmental Information Processing	Membrane transport	ABC transporters	Phosphonate transport [mD:m00223]	K02042	phnC; phosphonate transport system ATP-binding protein	7.3.2.2	11.2	12.8	5.9	6.1
+Environmental Information Processing	Membrane transport	ABC transporters	Phosphonate transport [mD:m00223]	K02044	phnD; phosphonate transport system substrate-binding protein		10.5	11.7	5.2	5.6
+Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis	Embden-Meyerhof pathway [mD:m00001]	K00844	hk; hexokinase	2.7.1.1	20.1	19.8	20.5	21.0
+Metabolism	Energy metabolism	Methanogenesis	Methane production [mD:m00567]	K00400	mcrA; methyl-coenzyme M reductase alpha subunit	2.8.4.1	2.0	1.8	9.4	10.1
+Metabolism	Nitrogen metabolism	Dissimilatory nitrate reduction	Nitrate to nitrite [mD:m00530]	K00370	narG; nitrate reductase alpha subunit	1.7.5.1	6.2	6.5	6.0	6.1
+Metabolism	Sulfur metabolism	Assimilatory sulfate reduction	Sulfate to H2S [mD:m00176]	K00958	sat; sulfate adenylyltransferase	2.7.7.4	8.4	8.1	8.6	8.3
+Environmental Information Processing	Signal transduction	Two-component regulatory system	Nitrogen regulation [mD:m00498]	K13599	ntrB; two-component system, NtrC family, nitrogen regulation sensor histidine kinase	2.7.13.3	9.1	9.9	4.8	4.4
+Metabolism	Amino acid metabolism	Cysteine biosynthesis	Serine to cysteine [mD:m00021]	K00640	cysE; serine O-acetyltransferase	2.3.1.30	7.3	7.1	7.5	7.4

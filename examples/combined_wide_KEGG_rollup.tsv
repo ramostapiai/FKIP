@@ -1,0 +1,11 @@
+L1	L2	L3	ID	Function	EC	Gene	Sample_01	Sample_02	Sample_03	Sample_04
+Cellular Processes	Cellular community - prokaryotes	Quorum sensing [PATH:ko02024]	K07782	LuxR family transcriptional regulator, quorum-sensing system regulator		sdiA	18.4	21.0	5.2	4.8
+Environmental Information Processing	Membrane transport	Phosphotransferase system (PTS) [PATH:ko02060]	K02786	PTS system, lactose-specific IIB component	2.7.1.207	lacE	14.1	15.6	6.0	5.5
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K02042	phosphonate transport system ATP-binding protein	7.3.2.2	phnC	11.2	12.8	5.9	6.1
+Environmental Information Processing	Membrane transport	Bacterial secretion system [PATH:ko03070]	K19232	hyaluronate-binding autotransporter adhesin		adhA	3.1	2.7	12.4	13.8
+Environmental Information Processing	Membrane transport	ABC transporters [PATH:ko02010]	K02058	simple sugar transport system substrate-binding protein		malE	9.8	10.5	4.9	5.1
+Environmental Information Processing	Signal transduction	Two-component system [PATH:ko02020]	K07792	anaerobic C4-dicarboxylate transporter		dcuB	8.7	9.4	4.2	4.5
+Metabolism	Energy metabolism	Methane metabolism [PATH:ko00680]	K00440	coenzyme F420 hydrogenase subunit alpha	1.12.98.1	frhA	2.4	2.1	10.6	11.2
+Metabolism	Amino acid metabolism	Cysteine and methionine metabolism [PATH:ko00270]	K01767	cyclopropane-fatty-acyl-phospholipid synthase	2.1.1.79	cfa	3.9	3.5	9.8	10.4
+Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism [PATH:ko00053]	K01053	gluconolactonase	3.1.1.17	gnl	4.5	4.2	8.9	9.3
+Metabolism	Biosynthesis of other secondary metabolites	Biosynthesis of siderophore group nonribosomal peptides [PATH:ko01053]	K04789	mycobactin polyketide synthetase		mbtB	7.8	8.3	3.7	4.0
